@@ -1,0 +1,6 @@
+/logs/
+/static/plugins01/
+/.idea/
+/__pycache__/
+*.pyc
+/test/
